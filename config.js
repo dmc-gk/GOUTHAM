@@ -8,29 +8,29 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Queen Anya Bot",
-    footer: process.env.Footer || "© Queen Anya Bot",
+    botname: process.env.BotName || "𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
+    footer: process.env.Footer || "© 𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
     prefa: process.env.Prefix || "-",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "DINU BOY",
-    ownernumber: process.env.Owner_Number || "94781306128",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
+    ownernumber: process.env.Owner_Number || "918943076174",
+    instagramId: process.env.Insta || "x4_esports__official",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "@PikaBotz",
-    packname: process.env.PackName || "Queen Anya v2 MD",
-    socialLink: process.env.Web || "https://github.com/PikaBotz",
-    groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
+    author: process.env.Author || "@𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
+    packname: process.env.PackName || "𝐗𝟒𝄞⃝ ❤️𝐍𝐀𝐍𝐁𝐀𝐍𝄞⃝  ♛",
+    socialLink: process.env.Web || "https://linktr.ee/x4_esports?fbclid=PAZXh0bgNhZW0CMTEAAabbog8UB0NP0SSNmzxjlXJ9VMAJNWtVEiR5-fwzEkwh4YjwzMr69MWvfCw_aem_VJS5VVkDhIbab6CGLLpIHA",
+    groupLink: process.env.GcLink || "https://chat.whatsapp.com/KWvh8QxKqQZAi3irBs3iUY",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "mongodb+srv://dinuboy:dinuthyt@cluster0.b05wuue.mongodb.net/",
-    sessionId: process.env.SESSION_ID || "M2NKM0ViU0IjdjdWWHBtaXNiQzF5MkRmMkxmc_Queen-Anya_EVmdXg0VkhHa2FnMFRlYndWUUU2V2c_Queen-Anya_xaw==",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://GOUTHAM:<goutham2006>@cluster0.qiqwl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/",
+    sessionId: process.env.SESSION_ID || "dGM1bjk_Queen-Anya_waW0=",
 
     /**
      * thumbnails and medias
